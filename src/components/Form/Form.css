@@ -1,0 +1,6 @@
+.search-container{
+    display:flex;
+    background:lightgrey !important;
+    padding:2rem;
+    border-radius: 5px;
+}
